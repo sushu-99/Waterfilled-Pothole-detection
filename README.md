@@ -20,8 +20,8 @@ By leveraging advanced technologies such as image processing and deep learning, 
 ## Collected Data images
    ![image](https://github.com/sushu-99/Waterfilled-Pothole-detection/assets/132267021/9f9655b9-bc17-4d5e-b4c0-30fd600197a1)
 ## Annoted Data images
-
-## Collected Data images
+   ![image](https://github.com/sushu-99/Waterfilled-Pothole-detection/assets/132267021/79623080-f3a7-4577-9ace-3c0e88766544)
+## Accuracy on Bounding box
 
 ## Collected Data images
 
